@@ -30,4 +30,4 @@ Tired of wasting hours applying to jobs that are a bad fit? Target Lock is a Chr
 
 Once installed and configured, Target Lock runs automatically. Just browse to any job page on LinkedIn, Greenhouse, Workday, or any other career site. The analysis will appear on the page, giving you the score and the reasons behind it.
 
-This project was born out of my own desperate job search. If you have any feedback, feel free to open an issue!
+If you have any feedback, feel free to open an issue!
