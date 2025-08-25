@@ -12,7 +12,7 @@ This extension is installed manually from its source code. Follow these steps pr
 
 ### 1. Download the Installation Package
 *   Navigate to the latest release page here: **[Latest Release](https://github.com/NOTDHRUVIL/target-lock-extension/releases/tag/v1.1)**
-*   Under the "Assets" section, download the file named **`Target-Lock-v1.0-Install.zip`**. (Please ignore the default "Source code" links).
+*   Under the "Assets" section, download the file named **`Target-Lock-v1.1-Install.zip`**. (Please ignore the default "Source code" links).
 
 ### 2. Unzip and Install in Chrome
 *   Find the downloaded `.zip` file in your "Downloads" folder and **Unzip / Extract** it. This will create a new folder. Keep this folder somewhere safe.
